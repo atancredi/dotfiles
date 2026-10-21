@@ -1,0 +1,4 @@
+WinAeroTweaker
+Revo Uninstaller
+Wise Registry Cleaner
+Reset Windows Update Tool (problems with WindowsUpdate or Microsoft Store/Windows Defender etc etc)
